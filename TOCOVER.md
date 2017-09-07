@@ -7,6 +7,6 @@ A list of topics that will be covered in today's lecture.
 
 ## Getting Data from DB with Endpoints
   
-## Inserting Data to DB with Enpoints
+## Inserting Data to DB with Endpoints
 
 ## Req.Query
