@@ -1,0 +1,27 @@
+{
+  "name": "PH1-Massive-Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missyjeanbeutler/PH1-Massive-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missyjeanbeutler/PH1-Massive-Node/issues"
+  },
+  "homepage": "https://github.com/missyjeanbeutler/PH1-Massive-Node#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "massive": "^4.0.0"
+  }
+}
